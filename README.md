@@ -24,6 +24,6 @@ Finally, generate all of the possible color band combinations based on the argum
 
 ``` r
 
-create_combinations(band_colors = band_colors, band_number = 4)
+create_combinations(band_colors = band_colors, band_number = band_number)
 
 ```
